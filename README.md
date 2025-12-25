@@ -1,2 +1,2 @@
-# DBMS
+# Data Base Management System
 ## LAB PROGRAMS WITH OUTPUT SCREENSHOTS
